@@ -1,9 +1,9 @@
 {
-  "name": "Pertutti",
-  "short_name": "Pertutti",
+  "name": "pertutti",
+  "short_name": "pertutti",
   "start_url": "/",
   "display": "fullscreen",
   "background_color": "#111111",
-  "theme_color": "#db2424",
+  "theme_color": "#464343",
   "icons": []
 }
